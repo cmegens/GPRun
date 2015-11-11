@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sensor3",
+				"sensor3value"
+			],
+			[
+				"sensor2",
+				"sensor2value"
+			],
+			[
+				"sensor1",
+				"sensor1value"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"led",
+				"ledCounter"
+			],
+			[
+				"le",
+				"ledCounter"
+			],
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "testrun.js",
+			"settings":
+			{
+				"buffer_size": 2141,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '5b468e895e861582c8ac080daaae7722' + 'a0787a887fb19723f006ed5b020ffdf6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/GPRun"
+	],
+	"file_history":
+	[
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#0/server.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/Wine/server.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/sandermetdatabase.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/sftp-config.json",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/testrun.js",
+		"/Users/carlmegens/Desktop/data.json",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/Wine/routes/wines.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/ws.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/wsdelay.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/Wine/mongoinstall.sh",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/sander.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/sandermettijd.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/filmpje.js",
+		"/Users/carlmegens/Desktop/style.css",
+		"/Users/carlmegens/Desktop/index.html",
+		"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1443706014/rpiRunextern/home/pi/Run/AndyPiPixelLights.py",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/routes/wines.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/server.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/stopwatch.js",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/test2.js",
+		"/Users/carlmegens/Documents/meteor/simple-todos/simple-todos.css",
+		"/Users/carlmegens/Documents/meteor/simple-todos/simple-todos.js",
+		"/Users/carlmegens/Documents/meteor/simple-todos/simple-todos.html",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/AndyPiPixelLights.py",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/PixelLightsDemo.py",
+		"/Users/carlmegens/Dropbox/Run! Genneper Parken/programming/rpi/package.json",
+		"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1442489933/rpiRun/home/pi/ws.js",
+		"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1442329133/rpiRun/home/pi/ws.js",
+		"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1442328327/rpiRun/home/pi/ws.js",
+		"/Users/carlmegens/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/rpiRun",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#0/PixelLightsDemo.py",
+		"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1442318086/rpiRun/home/pi/test.js",
+		"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1442316665/rpiRun/home/pi/ws.js",
+		"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1442317761/rpiRun/home/pi/Run/PixelLightsDemo.py",
+		"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1442316705/rpiRun/home/pi/Run/PixelLightsDemo.py",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#3/gpiotest.js",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#2/.htpasswd",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#1/.htaccess",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#0/.htpasswd",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#1/ws.js",
+		"/Volumes/web/mineyourownbody/dankjewel/index.php",
+		"/Volumes/web-1/mineyourownbody/css/main.css",
+		"/Volumes/web-1/mineyourownbody/ladiesrun/index.php",
+		"/Volumes/web/index.html",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#2/camerascript.sh",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#0/capt0000.nef",
+		"/Users/carlmegens/Downloads/init.d",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#1/todo.js",
+		"/Applications/MAMP/htdocs/graph.js",
+		"/Applications/MAMP/htdocs/test.json",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#0/index.html",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#0/todo.js",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#1/functions.php",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#0/functions.php",
+		"/Applications/MAMP/htdocs/jawbone_demo/js/graph.js",
+		"/Users/carlmegens/Documents/Dev/D3/firsttry/test.json",
+		"/Users/carlmegens/Documents/Dev/D3/firsttry/index.htm",
+		"/Users/carlmegens/Documents/Dev/D3/firsttry/style.css",
+		"/Users/carlmegens/Documents/Dev/D3/firsttry/graph.js",
+		"/Volumes/NO NAME/Organizer_With_USB_No_Symbols.gcode",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#12/.htpasswd",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#4/.htaccess",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#3/Untitled copy.txt",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#2/Untitled.txt",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#1/kitten.jpg",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#0/kitten.jpg",
+		"/Volumes/surveillance/dlink1/cam_settings.conf",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#2/index.html",
+		"/Users/carlmegens/Library/Caches/com.binarynights.ForkLift2/#1/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button2",
+			"button1",
+			"result",
+			"'_id': new BSON.ObjectID(id)",
+			"?>",
+			"		"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sensor2",
+			"sensor1",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "testrun.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "GPRuntest.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/folders/x8/r1kq5qpj5tb78_h2_rnp6tk80000gn/T/sublime-sftp-browse-1442329133/rpiRun/home/pi/ws.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
